@@ -15,6 +15,8 @@ This API provides endpoints to retrieve commit details and commit diffs from a G
 
      npm run dev
 
+ Your project runs at                      http://localhost:3000
+
 ## API Routes
 
 ### Get Commit by ID
