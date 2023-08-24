@@ -4,6 +4,17 @@
 
 This API provides endpoints to retrieve commit details and commit diffs from a GitHub repository.
 
+# Steps to Reproduce
+
+ 1. Clone the repository
+ 2. Install dependencies at root           directory of the project
+
+     npm install
+
+ 3. Run the project
+
+     npm run dev
+
 ## API Routes
 
 ### Get Commit by ID
